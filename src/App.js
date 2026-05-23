@@ -23,7 +23,9 @@ function App() {
           src="https://images.unsplash.com/photo-1552566626-52f8b828add9"
           alt="Restaurant"
         />
-        <button>Order Now</button>
+        <a href="#menu">
+  <button>Order Now</button>
+</a>
       </section>
 
       {/* Menu Section */}
