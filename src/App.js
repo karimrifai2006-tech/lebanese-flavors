@@ -67,7 +67,7 @@ function App() {
               src="/Fried-Lebanese-Kibbeh-Recipe-500x500.jpeg"
               alt="Kibbeh"
             />
-            <h3>،Kibbeh</h3>
+            <h3>Kibbeh</h3>
             <p>$4.5</p>
           </div>
            <div className="menu-item">
